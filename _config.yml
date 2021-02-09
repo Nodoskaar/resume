@@ -5,7 +5,6 @@ description: "My github resume"
 # Build settings
 markdown: kramdown
 # remote_theme: rwstorer/resume
-theme: resume-template
 sass:
   sass_dir: _sass
   style: compressed
