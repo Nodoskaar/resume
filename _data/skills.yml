@@ -1,12 +1,39 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# AD
+- skill: Active Directory Administration
+  description: Users, groups, group policies, replication, delegation, trusts
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# ADFS
+- skill: Active Directory Federation Services
+  description: Connecting with Azure and M365
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Exchange Server
+- skill: Microsoft Exchange Server 2013
+  description: implementation, management, and migration
+
+- skill: PowerShell
+  description: automation of complex and repetitive tasks
+
+- skill: VMware vSphere Server 6.0
+  description: install, configure, and manage vSphere Server 6.0
+
+- skill: VMware Site Recovery Manager 6.0
+  description: install, configure, manage, and use to recover VMware VMs
+
+- skill: Active Directory Certificate Services
+  description: design and manage two-tier PKI infrastructure
+
+- skill: Azure and M365
+  description: global tenant administrator (Azure AD, Azure Resources, Teams, SharePoint, Exchange, Intune)
+
+- skill: VMware vCenter Server 6.5
+  description: install, configure, and manage vCenter 6.5
+
+- skill: Windows Server (2012,2016)
+  description: AD, DHCP, DNS, Hyper-V, Web/IIS, NPS/RADIUS, ADFS, PKI/Certificates
+
+- skill: C#
+  description: web services
+
+- skill: MS SQL
+  description: install, configure, and manage MS SQL Server and write SQL

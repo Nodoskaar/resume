@@ -1,19 +1,28 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Active Directory Administrator
+- company: Notre Dame University
+  position: Active Directory Administrator
+  duration: Sep, 2019 &mdash; Present
+  summary: Maintain a global Active Directory infrastucture withRADIUS and enterprise certificate services.<ul><li>Project lead for a remote site migration to a different Active Directory Domain</li><li>Project lead for a System Center Operations Manager 2019 implementation</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Adjunct Professor
+- company: Ivy Tech Community College
+  position: Adjunct Professor
+  duration:  Jan, 2020 &mdash; Present
+  summary: Teach courses in introductory programming logic, A+ prep, Python, and software project management using SDLC and Agile.
 
+# Technical Analyst
+- company: NIBCO INC.
+  position: Technical Analyst
+  duration:   Feb, 2006  &mdash; Aug, 2019
+  summary: Lead infrastructure and server administrator for a global manufacturing corporation. <ul><li>Purchased fourteen servers and led a team of two other administrators in remotely replacing leased hardware and over forty virtual machines on-time and within budget</li><li>Installed and deployed a VMware vShere 5.1 cluster with ten hosts and implemented VMware Site Recovery Manager. Upgraded them to vSphere 6.0 when it released. Upgraded VMware Site Recovery Manager and vCenter also</li><li>Wrote PowerShell scripts for automating user account creation, server backup, and server alerting with interfaces to both MS SQL and SQLite</li><li>Wrote C# web application that interfaced with Twilios' C# API and used an SQLite database for SMS technician alerts and acknowledgments</li><li>Deployed Esker DeliveryWare (fax server) 4.0, 5.0, and 6.0. Wrote custom Vb.Net web application to interface with SAP's order processing BAPIs with Perl and C# applications to parse internal mail messages for the SAP sales order process&mdash;procesing over a million sales order lines and generating over $75K in annual sales</li><li>Migrated from Microsoft Exchange Server 2010 to 2013 with clustering, and then migrated over 2,000 user and shared mailboxes to Exchange Online</li><li>Primary Microsoft 365 Global Tenant Administrator for an Enterprise of over 2500 users. Created primary and secondary Domains; executed content searches and enabled litigation holds; created SharePoint sites and assigned permissions; created Teams and M365 groups</li><li>Designed, configured, and deployed Active Directory Federation Services 3.0 in Azure using Azure Resource Groups, VMs, and kemp load balancers</li><li>Built Intune policies for both mobile devices (MDM) and mobile applications (MAM)</li><li>Primary Microsoft Volume License Services Administrator</li><li>Administered System Center Configuration Manager and built application deployments</li><li>Designed, configured, and deployed vendor and custom server and application monitors for metrics and alerting using PowerShell, C#, and Perl</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: U.S. Army
+  position: Information Systems Analyst
+  duration:   1993 &mdash; 2006
+  summary: Administered Windows and UNIX servers. Wrote Ada and C interface routines. Trained soldiers.
+
+- company: U.S. Army
+  position: M1 Armor Crewman
+  duration:   1984 &mdash; 1993
+  summary: Drove M1 tanks. Trained soldiers.
